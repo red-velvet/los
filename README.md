@@ -6,3 +6,5 @@ los를 즐겨주신 791명의 회원들에게 감사드리며, 작은 선물을 
 Database account need <strong>Select, Insert, Update, Delete, Create temporary tables</strong> permission.
 
 regards.
+
+수정은 자유롭게, 상업적 사용은 ㄴㄴ
